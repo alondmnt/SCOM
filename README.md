@@ -2,7 +2,7 @@
 
 This repository mirrors the original paper's [web site](http://www.cs.tau.ac.il/~tamirtul/SCOMs/).
 
-SCOMs - or Spatially Co-evolving Orthologous Modules - are a graph theory-based model for studying the organization of genes in multiple-organisms. These are sub-graphs that comprise of gene families and describes the relations between them . This method was originally used to study the evolution of gene organization (more specifically, their 3D distribution inside the nucleus*) in the budding yeast _S. cerevisiae_ and the fission yeast _S. pombe_. Moreover, it can easily be extended for additional purposes, such as comparing different tissues from the same organism, monitoring the same cells under various conditions (that may affect the 3D organization of chromosomes), and for a differential study of healthy and cancer cells.
+SCOMs - or Spatially Co-evolving Orthologous Modules - are a graph theory-based model for studying the organization of genes in multiple-organisms. These are sub-graphs that comprise of gene families, and represent the relations between them in terms of genomic re-organization (due to structural and conformational variation). This method was originally used to study the evolution of gene organization (more specifically, their 3D distribution inside the nucleus*) in the budding yeast _S. cerevisiae_ and the fission yeast _S. pombe_ (across 300-1000 million years). Moreover, the method can easily be extended for additional purposes, such as comparing different tissues from the same organism, monitoring the same cells under various conditions (that may affect the 3D organization of chromosomes), and for a differential study of healthy and cancer cells.
 
 \* using chromosome conformation capture (3C, Hi-C) data.
 
